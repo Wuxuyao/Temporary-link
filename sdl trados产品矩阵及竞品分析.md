@@ -1,4 +1,4 @@
-**1 SDL Tridion DX **
+# SDL Tridion DX #
 
 **1.1 痛点** ![图片](https://uploader.shimo.im/f/7Bc9psDBmPjcWqMU!thumbnail)
 
