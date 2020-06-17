@@ -1,5 +1,3 @@
-**组长要求**
-
 *  ui控件的theory、不同ui控件的使用场景 和 缺陷，一个总体review
 * 最近的trend 是什么，是否适合我们的系统
 * 令人感到极度舒适的ui控件 showcases ，特别是：
@@ -10,7 +8,7 @@
     * 跟随移动的控件 （比如现在看到的石墨的工具栏）
   * searching aid， 搜索控件
 
-（以上"" 号中内容参考 o'reilly 的information architecture， 如果大家不熟悉的话，推荐扫一下第5章，大概10min的亚子）
+（以上"" 号中内容参考 o'reilly 的information architecture）
 
 **Note: **
 
