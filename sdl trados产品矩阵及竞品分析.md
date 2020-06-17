@@ -1,6 +1,3 @@
-**SDL产品矩阵报告**
-
-
 **1 SDL Tridion DX **
 
 **1.1 痛点** ![图片](https://uploader.shimo.im/f/7Bc9psDBmPjcWqMU!thumbnail)
