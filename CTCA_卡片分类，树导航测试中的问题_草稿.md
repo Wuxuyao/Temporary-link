@@ -1,4 +1,3 @@
-* 文章 / 这几天的心得
 *  card-sorting ，tree-testing 在**反映信息架构有效性中的局限性 （或陷阱）**
 * card-sorting, tree-testing中的一些**不当（或者说unconventional ）操作**
 # 什么情况下才适用卡片分类法？
